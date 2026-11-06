@@ -63,7 +63,3 @@ For the best experience on iPhone, rotate the device to **landscape**.
 ## 👤 Author
 
 Created by **Liborio Perri**.
-
-## 📄 License
-
-Add the license of your choice here (for example MIT).
